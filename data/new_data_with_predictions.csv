@@ -1,0 +1,3 @@
+Distance_km,Weather,Traffic_Level,Time_of_Day,Vehicle_Type,Preparation_Time_min,Courier_Experience_yrs,Peak_Hours,Log_Distance_km,Predicted_Delivery_Time
+14.17,Clear,Low,Afternoon,Bike,8,0.0,0,2.719319793360441,55.7940878840266
+6.63,Foggy,Low,Night,Scooter,24,3.0,0,2.0320878452963655,52.88436248668301
