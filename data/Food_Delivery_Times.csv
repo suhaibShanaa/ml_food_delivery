@@ -997,3 +997,5 @@ Order_ID,Distance_km,Weather,Traffic_Level,Time_of_Day,Vehicle_Type,Preparation_
 107,8.5,Clear,High,Evening,Car,13,3.0,54
 271,16.28,Rainy,Low,Morning,Scooter,8,9.0,71
 861,15.62,Snowy,High,Evening,Scooter,26,2.0,81
+436,14.17,Clear,Low,Afternoon,Bike,8,0.0,55
+103,6.63,Foggy,Low,Night,Scooter,24,3.0,58
